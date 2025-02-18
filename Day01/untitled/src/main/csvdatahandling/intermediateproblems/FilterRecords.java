@@ -10,7 +10,7 @@ import java.util.List;
 
 public class FilterRecords {
     // created a method to read and get the data from csv file
-    public static ArrayList<ArrayList<String >> readCsvFile(String file) throws CsvValidationException, IOException {
+    public static ArrayList<ArrayList<String >> getGoodStudents(String file) throws CsvValidationException, IOException {
         CSVReader reader = new CSVReader(new FileReader(file));
         // 2d string arraylist to store the data
         ArrayList<ArrayList<String >> csvData = new ArrayList<>();
@@ -28,7 +28,7 @@ public class FilterRecords {
 
         try { // using openCSV library to read the CSV file
             ArrayList<ArrayList<String >> csvData; // 2D string arrayList to store the file data
-            csvData = readCsvFile(file);
+            csvData = getGoodStudents(file);
             for (ArrayList<String> strings : csvData) {
                 int studentMarks = Integer.parseInt(strings.get(3));
                 if(studentMarks > 80) {
