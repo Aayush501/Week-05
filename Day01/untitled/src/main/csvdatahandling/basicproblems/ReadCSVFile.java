@@ -25,7 +25,6 @@ public class ReadCSVFile {
     public static void main(String[] args) {
         String file = "readcsv.csv"; // file path
 
-        // try with resources to close the resources after reading the file
         try { // using openCSV library to read the CSV file
             ArrayList<ArrayList<String >> csvData; // 2D string arrayList to store the file data
             csvData = readCsvFile(file);
