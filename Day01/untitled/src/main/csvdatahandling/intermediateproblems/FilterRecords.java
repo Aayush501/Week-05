@@ -14,7 +14,8 @@ public class FilterRecords {
         CSVReader reader = new CSVReader(new FileReader(file));
         // 2d string arraylist to store the data
         ArrayList<ArrayList<String >> csvData = new ArrayList<>();
-        String[] nextLine = reader.readNext(); // to skip the header so there is no NumberFormatException
+        reader.readNext(); // to skip the header so there is no NumberFormatException
+        String[] nextLine;
         while((nextLine = reader.readNext()) != null) { // reading the file
             ArrayList<String> line = new ArrayList<>(List.of(nextLine));
             csvData.add(line);
