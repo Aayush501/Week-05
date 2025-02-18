@@ -22,9 +22,9 @@ public class WriteToCSVFile {
         String[] header = {"ID", "Name", "Department", "Salary"};
         String[] emp1 = {"104", "Name1", "Finance", "62000"};
         String[] emp2 = {"105", "Name2", "Sales", "58000"};
-        String[] emp3 = {"104", "Name3", "HR", "62000"};
-        String[] emp4 = {"105", "Name4", "IT", "58000"};
-        String[] emp5 = {"104", "Name5", "Finance", "62000"};
+        String[] emp3 = {"106", "Name3", "HR", "62000"};
+        String[] emp4 = {"107", "Name4", "IT", "58000"};
+        String[] emp5 = {"108", "Name5", "Finance", "62000"};
 
         // writing to file inside try-catch block to handle exceptions
         try {
