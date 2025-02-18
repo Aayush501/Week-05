@@ -17,11 +17,11 @@ class ReadCSVFileTest {
 
         // defining the expected result arrays
         ArrayList<ArrayList<String>> result1 = new ArrayList<>();
-        result1.add(new ArrayList<String >(Arrays.asList("Aayush","Kumar","Shrivastav","Java","Programming","Learner")));
+        result1.add(new ArrayList<>(Arrays.asList("Aayush","Kumar","Shrivastav","Java","Programming","Learner")));
         ArrayList<ArrayList<String>> result2 = new ArrayList<>();
-        result2.add(new ArrayList<String >(Arrays.asList("technocrats","institute","of","technology","excellence","bhopal")));
+        result2.add(new ArrayList<>(Arrays.asList("technocrats","institute","of","technology","excellence","bhopal")));
         ArrayList<ArrayList<String>> result3 = new ArrayList<>();
-        result3.add(new ArrayList<String >(Arrays.asList("bridge","labz","teaching","us","java")));
+        result3.add(new ArrayList<>(Arrays.asList("bridge","labz","teaching","us","java")));
 
         // performing tests
         assertEquals(result1, ReadCSVFile.readCsvFile(test1));
