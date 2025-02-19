@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85725f71-dc6b-4bf4-912d-b136fc221b36" name="Changes" comment="[Aayush Kumar Shrivastav] Add . &#10; ReportFromDatabase into csv file -&gt; Solution" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tCffQ0od6tMtumMYLiPFDw03fu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CountRows.executor": "Run",
+    "Application.FilterRecords.executor": "Run",
+    "Application.JSONToCSV.executor": "Debug",
+    "Application.ModifyCSVFile.executor": "Run",
+    "Application.ReadCSVFile.executor": "Run",
+    "Application.ReportFromDatabase.executor": "Run",
+    "Application.SearchForRecord.executor": "Run",
+    "Application.SortCSVRecords.executor": "Run",
+    "Application.WriteToCSVFile.executor": "Run",
+    "JUnit.ReadCSVFileTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "Day-01",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "A:/MySql/mysql-connector-j-9.2.0",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="csvdatahandling.basicproblems" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85725f71-dc6b-4bf4-912d-b136fc221b36" name="Changes" comment="" />
+      <created>1739861175760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739861175760</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[Aayush Kumar Shrivastav] Add . Read a CSV File and Print Data -&gt; (Solution + Test)">
+      <option name="closed" value="true" />
+      <created>1739870939813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739870939835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Aayush Kumar Shrivastav] Fix . ReadCSVFileTest -&gt; Necessary Changes">
+      <option name="closed" value="true" />
+      <created>1739871132222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739871132222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[Aayush Kumar Shrivastav] Fix . ReadCSVFileTest -&gt; Necessary Fixes In Comments">
+      <option name="closed" value="true" />
+      <created>1739873686968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739873686971</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[Aayush Kumar Shrivastav] Add . WriteToCSVFile -&gt; Solution">
+      <option name="closed" value="true" />
+      <created>1739873737599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739873737599</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[Aayush Kumar Shrivastav] Add . ReadCSVFile -&gt; Solution">
+      <option name="closed" value="true" />
+      <created>1739874293715</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739874293730</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[Aayush Kumar Shrivastav] Add . FilterRecords -&gt; Solution">
+      <option name="closed" value="true" />
+      <created>1739875529014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739875529017</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[Aayush Kumar Shrivastav] Fix . FilterRecords -&gt; Necessary Change at line:17">
+      <option name="closed" value="true" />
+      <created>1739875762300</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739875762300</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[Aayush Kumar Shrivastav] Refactor . FilterRecords -&gt; renamed readCsvFile method name to getGoodStudents">
+      <option name="closed" value="true" />
+      <created>1739876441485</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739876441486</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[Aayush Kumar Shrivastav] Fix . WriteToCSVFile -&gt; important changes at lines: 25, 26, and 27">
+      <option name="closed" value="true" />
+      <created>1739876937206</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739876937214</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[Aayush Kumar Shrivastav] Add . SearchForRecord -&gt; Solution">
+      <option name="closed" value="true" />
+      <created>1739877010566</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739877010566</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[Aayush Kumar Shrivastav] Add . ModifyCSVFile -&gt; Solution">
+      <option name="closed" value="true" />
+      <created>1739896963707</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739896963707</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[Aayush Kumar Shrivastav] Add . SortCSVRecords -&gt; Solution">
+      <option name="closed" value="true" />
+      <created>1739949730065</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739949730065</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[Aayush Kumar Shrivastav] Add . &#10; ReportFromDatabase into csv file -&gt; Solution">
+      <option name="closed" value="true" />
+      <created>1739950764490</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739950764490</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Aayush Kumar Shrivastav] Add . Read a CSV File and Print Data -&gt; (Solution + Test)" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Fix . ReadCSVFileTest -&gt; Necessary Changes" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Fix . ReadCSVFileTest -&gt; Necessary Fixes In Comments" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Add . WriteToCSVFile -&gt; Solution" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Add . ReadCSVFile -&gt; Solution" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Add . FilterRecords -&gt; Solution" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Fix . FilterRecords -&gt; Necessary Change at line:17" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Refactor . FilterRecords -&gt; renamed readCsvFile method name to getGoodStudents" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Fix . WriteToCSVFile -&gt; important changes at lines: 25, 26, and 27" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Add . SearchForRecord -&gt; Solution" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Add . ModifyCSVFile -&gt; Solution" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Add . SortCSVRecords -&gt; Solution" />
+    <MESSAGE value="[Aayush Kumar Shrivastav] Add . &#10; ReportFromDatabase into csv file -&gt; Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Aayush Kumar Shrivastav] Add . &#10; ReportFromDatabase into csv file -&gt; Solution" />
+  </component>
+</project>
