@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85725f71-dc6b-4bf4-912d-b136fc221b36" name="Changes" comment="[Aayush Kumar Shrivastav] Add . &#10; ReportFromDatabase into csv file -&gt; Solution" />
+    <list default="true" id="85725f71-dc6b-4bf4-912d-b136fc221b36" name="Changes" comment="[Aayush Kumar Shrivastav] Add . &#10; ReportFromDatabase into csv file -&gt; Solution">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/csvdatahandling/basicproblems/ReadCSVFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/ReadCSVFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/csvdatahandling/basicproblems/WriteToCSVFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/WriteToCSVFile.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,31 +38,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CountRows.executor": "Run",
-    "Application.FilterRecords.executor": "Run",
-    "Application.JSONToCSV.executor": "Debug",
-    "Application.ModifyCSVFile.executor": "Run",
-    "Application.ReadCSVFile.executor": "Run",
-    "Application.ReportFromDatabase.executor": "Run",
-    "Application.SearchForRecord.executor": "Run",
-    "Application.SortCSVRecords.executor": "Run",
-    "Application.WriteToCSVFile.executor": "Run",
-    "JUnit.ReadCSVFileTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "Day-01",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "A:/MySql/mysql-connector-j-9.2.0",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CountRows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FilterRecords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JSONToCSV.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ModifyCSVFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadCSVFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReportFromDatabase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchForRecord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortCSVRecords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteToCSVFile.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ReadCSVFileTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Day-02&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;A:/MySql/mysql-connector-j-9.2.0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
