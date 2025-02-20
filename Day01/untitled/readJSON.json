@@ -1,32 +1,21 @@
-[
-  {
-    "ID" : "01",
-    "Name" : "Aayush",
-    "Age" : "15",
-    "Marks" : "90"
-  },
-  {
+[ {
+  "Marks" : "85",
+  "Age" : "20",
+  "ID" : "01",
+  "Name" : "Aayush"
+}, {
+  "Marks" : "90",
+  "Age" : "20",
   "ID" : "02",
-  "Name" : "Kumar",
-  "Age" : "15",
-  "Marks" : "85"
-  },
-  {
-    "ID" : "03",
-    "Name" : "Shrivastav",
-    "Age" : "15",
-    "Marks" : "90"
-  },
-  {
-    "ID" : "04",
-    "Name" : "Ashu",
-    "Age" : "15",
-    "Marks" : "95"
-  },
-  {
-    "ID" : "05",
-    "Name" : "Anshik",
-    "Age" : "15",
-    "Marks" : "85"
-  }
-]
+  "Name" : "Kumar"
+}, {
+  "Marks" : "85",
+  "Age" : "20",
+  "ID" : "03",
+  "Name" : "Shrivastav"
+}, {
+  "Marks" : "90",
+  "Age" : "20",
+  "ID" : "04",
+  "Name" : "Aayush"
+} ]

@@ -1,6 +1,5 @@
 package csvdatahandling.advancedproblems;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
@@ -15,9 +14,9 @@ import java.util.List;
 import java.util.Map;
 
 public class JSONToCSV {
-    public static ArrayList<ArrayList<String>> readJson(String file) throws JsonProcessingException {
+    public static ArrayList<ArrayList<String>> readJson(String file) throws IOException {
         ObjectMapper mapper = new ObjectMapper();
-        JsonNode node = mapper.readTree(file);
+        JsonNode node = mapper.readTree(new File(file));
 
         ArrayList<ArrayList<String>> jsonData = new ArrayList<>();
         for (JsonNode n : node) {
@@ -52,8 +51,10 @@ public class JSONToCSV {
             for (int i = 0; i < strings.size(); i++) {
                 row [i] = strings.get(i);
             }
+            writer.writeNext(row);
             System.out.println(Arrays.toString(row));
         }
+        writer.close();
     }
 
     public static void csvToJson(ArrayList<ArrayList<String>> csvData, String file) throws IOException {
@@ -71,7 +72,7 @@ public class JSONToCSV {
     }
 
     public static void main(String[] args) {
-        String jsonFile = "readJson.json";
+        String jsonFile = "readJSON.json";
         String csvFile = "csvJson.csv";
         try {
             ArrayList<ArrayList<String>> jsonData = readJson(jsonFile);
@@ -79,6 +80,7 @@ public class JSONToCSV {
             ArrayList<ArrayList<String>> csvData = readCsv(csvFile);
             csvToJson(csvData, jsonFile);
         } catch (Exception e) {
+            System.out.println(e.getMessage());
             System.out.println("Exception Occurred!!!");
         }
     }
